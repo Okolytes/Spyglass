@@ -1,0 +1,13 @@
+{
+  "item.spyglass.spyglass": "Spyglass",
+
+  "item.spyglass.zoom": "Spyglass Zoom",
+  "item.spyglass.zoom.sub": "Scope winds up",
+  "item.spyglass.click": "Spyglass Click",
+  "item.spyglass.click.sub": "Scope clicks",
+
+  "enchantment.spyglass.magnify": "Magnify",
+  "enchantment.spyglass.magnify.desc": "Increases the maximum zoom for the Spyglass",
+  "enchantment.spyglass.scotopic": "Scotopic",
+  "enchantment.spyglass.scotopic.desc": "Applies night-vision to the lens of the Spyglass"
+}

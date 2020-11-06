@@ -1,0 +1,33 @@
+{
+  "item.spyglass.zoom": {
+    "category": "item",
+    "subtitle": "item.spyglass.zoom.sub",
+    "sounds": [{
+      "name": "spyglass:item/spyglass_wind1",
+      "stream": true
+    }, {
+      "name": "spyglass:item/spyglass_wind2",
+      "stream": true
+    }, {
+      "name": "spyglass:item/spyglass_wind3",
+      "stream": true
+    }, {
+      "name": "spyglass:item/spyglass_wind4",
+      "stream": true
+    }, {
+      "name": "spyglass:item/spyglass_wind5",
+      "stream": true
+    }, {
+      "name": "spyglass:item/spyglass_wind6",
+      "stream": true
+    }]
+  },
+  "item.spyglass.click": {
+    "category": "item",
+    "subtitle": "item.spyglass.click.sub",
+    "sounds": [{
+      "name": "spyglass:item/spyglass_click",
+      "stream": true
+    }]
+  }
+}
