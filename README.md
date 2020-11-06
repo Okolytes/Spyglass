@@ -1,3 +1,1 @@
-# Spyglass
-
-insert description here
+#Minecraft Spyglass mod that we gave up on because Caves and Cliffs was announced...
